@@ -1,0 +1,3 @@
+whatweb https://flask-task-tracker-l9oj.onrender.com
+https://flask-task-tracker-l9oj.onrender.com/ [302 Found] Country[UNITED STATES][US], HTML5, HTTPServer[cloudflare], IP[216.24.57.7], RedirectLocation[/login], Title[Redirecting...], UncommonHeaders[rndr-id,x-render-origin-server,cf-cache-status,cf-ray,alt-svc]
+https://flask-task-tracker-l9oj.onrender.com/login [200 OK] Country[UNITED STATES][US], HTML5, HTTPServer[cloudflare], IP[216.24.57.7], PasswordField[password], Title[Login- TODO], UncommonHeaders[rndr-id,x-render-origin-server,cf-cache-status,cf-ray,alt-svc]

@@ -1,0 +1,23 @@
+===============================================================
+Gobuster v3.8.2
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     https://flask-task-tracker-l9oj.onrender.com
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirb/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.8.2
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+done                 (Status: 302) [Size: 199] [--> /login]
+login                (Status: 200) [Size: 1256]
+logout               (Status: 302) [Size: 199] [--> /login]
+pending              (Status: 302) [Size: 199] [--> /login]
+register             (Status: 200) [Size: 1313]
+Progress: 4613 / 4613 (100.00%)
+===============================================================
+Finished
+===============================================================
